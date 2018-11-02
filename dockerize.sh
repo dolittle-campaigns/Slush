@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t dolittle/slush-campaign .
+docker build -t dolittle/campaigns:slush .
